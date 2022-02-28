@@ -2,8 +2,8 @@ name: Release
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '42 7 * * 2'
+  #schedule:
+  #  - cron: '42 7 * * 2'
   #push:
   #  branches:
   #    - 'main'
