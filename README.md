@@ -5,6 +5,8 @@
 ![Release](https://github.com/kettil/eslint-config/workflows/Release/badge.svg)
 ![GitHub](https://img.shields.io/github/license/kettil/eslint-config)
 
+⚠️ The project has moved to a [new repository](https://github.com/kettil/ts-toolbox/tree/main/packages/eslint-config) ⚠️
+
 The library is a collection of very strict ESLint rules.
 
 ## Installation
